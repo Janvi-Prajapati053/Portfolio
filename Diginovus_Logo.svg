@@ -1,0 +1,18 @@
+<svg width="325" height="56" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#53E5BB" />
+      <stop offset="100%" style="stop-color:#7FE380" />
+    </linearGradient>
+    <style>
+      .logo-text { font-family: 'Quicksand', sans-serif; font-size: 25px; fill: #202020; .curved-text { filter: url(#curvedText);  }}
+    </style>
+  </defs>
+  <path d="M27.5 25.5L20.5 16H6L14 29L22.5 27.5L17.5 21.5L3 25.5L12.5 36L24.5 32" stroke="url(#grad)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M10.5 42V42C7.29422 40.5428 5.54669 37.0399 6.31059 33.6023L7 30.5L12.5 36.5L10.5 42ZM10.5 42V47.5H18L23 45.5L25.5 36.5L18 40.5V52.5" stroke="url(#grad)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M33.5 25.5L40.5 16H55L47 29L38.5 27L43.5 21.5L58 25.5L48.5 36L36.5 32" stroke="url(#grad)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M50.5 42V42C54.2235 39.9951 55.8927 35.5473 54.4079 31.5876L54 30.5L48.5 36.5L50.5 42ZM50.5 42V47.5H43L38 45.5L35.5 36.5L43 40.5V52.5" stroke="url(#grad)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M23 8L20.0456 8.32827C16.469 8.72567 13.5916 11.4504 13 15V15H20.5L23 8ZM23 8L26 3L34.5 14L30.5 23L26 15L34.5 3L38.5 8M38.5 8L42.033 8.37189C45.425 8.72894 48 11.5893 48 15V15H42L38.5 8Z" stroke="url(#grad)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M30.5 35.5V47M30.5 47L25.5 50.25M30.5 47L36.5 51M20.5 53.5L25.5 50.25M25.5 50.25V50.25C26.8632 53.1127 30.3369 54.2628 33.1391 52.7793L36.5 51M36.5 51L41 53.5" stroke="url(#grad)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="70" y="35" class="logo-text curved-text">D I G I N O V U S</text>
+</svg>

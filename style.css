@@ -2184,15 +2184,17 @@ footer#footer {
   outline: none;
   background-color: var(--secondary-color);
   color: var(--dark-color);
-  width: 70px;
-  height: 70px;
-  line-height: 70px;
+  width: 60px;
+  height: 60px;
+  line-height: 80px;
   border-radius: 50%;
   cursor: pointer; 
   display: flex;
   justify-content: center;
+  align-items: center;
   opacity: 0;
   transition: opacity 0.3s ease-out;
+
 }
 #scrollToTopBtn:hover {
   background-color: var(--dark-color);
